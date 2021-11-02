@@ -12,8 +12,6 @@
 //         })
 //     }
 // }
-
-const Commando = require("discord.js-commando");
 const path = require("path");
 require("dotenv-flow").config();
 const token = "ODc1MjQ0NzI5MjU" + "4OTAxNTA0.YRStLA.HYm78h" + "rdu2lj9OTE_6i4WMFYx5Q";
