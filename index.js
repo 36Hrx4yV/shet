@@ -1,5 +1,5 @@
-// const Commando = require("discord.js-commando")
-// const Discord = require("discord.js")
+const Commando = require("discord.js-commando")
+const Discord = require("discord.js")
 
 // module.exports = class <ClassName> extends Commando.Command{
 //     constructor(client) {
@@ -13,7 +13,7 @@
 //     }
 // }
 const path = require("path");
-const token = "ODc1MjQ0NzI5MjU" + "4OTAxNTA0.YRStLA.HYm78h" + "rdu2lj9OTE_6i4WMFYx5Q";
+const token = "OTA5MzAzMTM2MjU3MjA4MzMy" + ".YZCUiQ." + "mu9KrrrVqA_ojcVOvEOU1GSImak";
 const prefix = "?";
 const client = new Commando.CommandoClient({
   commandPrefix: prefix,
