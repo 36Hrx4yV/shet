@@ -42,7 +42,7 @@ versionCheck().then(async (data) => {
       console.log(`${client.user.tag} is ready!`);
 
       //Changing RPC
-      let rpcdata = ["Nuke Bot v2", "By: Tech Vevo [YT]"];
+      let rpcdata = ["Mod Bot v2", "By: Eren Yeager#5608"];
       let rpctype = ["PLAYING", "PLAYING"];
       var i = 0;
       setInterval(() => {
