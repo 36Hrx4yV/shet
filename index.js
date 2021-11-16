@@ -14,7 +14,7 @@ const Discord = require("discord.js")
 // }
 const path = require("path");
 const token = "OTA5MzAzMTM2MjU3MjA4MzMy" + ".YZCUiQ." + "mu9KrrrVqA_ojcVOvEOU1GSImak";
-const prefix = "?";
+const prefix = ";";
 const client = new Commando.CommandoClient({
   commandPrefix: prefix,
 });
